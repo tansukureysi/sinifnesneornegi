@@ -31,6 +31,8 @@ SET METHODU: Değişkene değer atandığı zaman çalışmaya başlar
 
 
 -Form1 görüntüleme işlemi çıktısı
+
+
 ![image](https://user-images.githubusercontent.com/105325163/182043542-e4197eaa-e6e3-4835-a5db-590a69a8bc8e.png)
 
 
@@ -43,10 +45,15 @@ SET METHODU: Değişkene değer atandığı zaman çalışmaya başlar
 
 
 -Form2 'ye geçiş yapıldığunda gelen ekran
+
+
+
 ![image](https://user-images.githubusercontent.com/105325163/182043563-220970d2-2b2f-477c-a5b5-c4ca483f2e88.png)
 
 
 -Form2 görüntüleme işlemi çıktısı
+
+
 
 ![image](https://user-images.githubusercontent.com/105325163/182043588-c33a5275-1694-4c5a-90f7-42f6684e6b30.png)
 
