@@ -1,0 +1,12 @@
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\bin\Debug\sınıf-nesne.exe.config
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\bin\Debug\sınıf-nesne.exe
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\bin\Debug\sınıf-nesne.pdb
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf-nesne.csproj.AssemblyReference.cache
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf-nesne.csproj.SuggestedBindingRedirects.cache
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf_nesne.Form1.resources
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf_nesne.Form2.resources
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf_nesne.Properties.Resources.resources
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf-nesne.csproj.GenerateResource.cache
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf-nesne.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf-nesne.exe
+C:\Users\niyaz\source\repos\sınıf-nesne\sınıf-nesne\obj\Debug\sınıf-nesne.pdb
