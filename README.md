@@ -16,7 +16,7 @@ SET METHODU: Değişkene değer atandığı zaman çalışmaya başlar
 
 *Daha sonra atanan özelliklere erişim için otomobile ait özellikleri döndürüyoruz.
 
-
+-----------------------------------------------------------------------------------
 
 2-Form1.cs
 
@@ -30,11 +30,13 @@ SET METHODU: Değişkene değer atandığı zaman çalışmaya başlar
 *Son olarak Form2'ye geçişi sağlıyoruz.
 
 
+
 -Form1 görüntüleme işlemi çıktısı
 
 
 ![image](https://user-images.githubusercontent.com/105325163/182043542-e4197eaa-e6e3-4835-a5db-590a69a8bc8e.png)
 
+-------------------------------------------------------------------------------------------------------------------------
 
 
 3-Form2.cs
