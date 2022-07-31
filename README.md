@@ -46,7 +46,7 @@ SET METHODU: Değişkene değer atandığı zaman çalışmaya başlar
 *Form 1'de yaptığımız gibi otomobilde tanımlananların hepsinin burada çalışması için alanı tanımlıyoruz
 
 
--Form2 'ye geçiş yapıldığunda gelen ekran
+-Form2 'ye geçiş yapıldığında gelen ekran
 
 
 
